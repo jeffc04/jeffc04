@@ -1,19 +1,19 @@
 # Hi, I'm Jeff 👋 Welcome to my Cybersecurity & IT Project Portfolio 🔐
 
-I'm a tech professional passionate about securing digital environments and solving real-world security challenges. With several years of experience in IT and a growing foundation in security operations, I'm on a mission to transition into a role in Cybersecurity where I can actively hunt threats, respond to incidents, and protect systems.
+I'm a tech professional passionate about securing digital environments and solving real-world security challenges. With several years of experience in IT and a growing foundation in cybersecurity, my mission is to contribute to a safer, more resilient digital world—by helping organizations reduce risk, strengthen their defenses, and make smarter security decisions.
 
 ---
 
 ## 🌱 A bit about me:
 - 📡 Former TAC engineer at Cisco supporting a RedHat-based network management platform
-- 🛡️ Currently focused on defensive security, threat detection, and cloud security
+- 🛡️ Currently focused on defensive security, risk management, threat detection, and cloud security practices
 - 🎓 Studying for CompTIA Security+ and completing labs in Microsoft Sentinel & Azure
-- 🧠 Lifelong learner committed to advancing in cybersecurity, one project at a time
+- 🧠  Committed to lifelong learning as in cybersecurity, just like in life, there's no final destination, only refinement, learning, and evolving every day
 
 ---
 
-## 🎯 Career Goal:
-To join a proactive cybersecurity team as a Security Operations Analyst, where I can apply my investigative mindset, technical background, and client-facing experience to strengthen threat detection and response efforts.
+## 🎯 My Focus:
+I’m exploring opportunities across the cybersecurity landscape—whether in cloud security, GRC, threat detection, or vulnerability management. My goal is to bring real value to a team by combining technical skills with a proactive, problem-solving mindset.
 
 ---
 
