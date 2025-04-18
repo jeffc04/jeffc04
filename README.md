@@ -1,13 +1,11 @@
-Hi, I'm Jeff 👋 Welcome to my Cybersecurity & IT Project Portfolio 🔐
+# Hi, I'm Jeff 👋 Welcome to my Cybersecurity & IT Project Portfolio 🔐
 
-I'm a tech professional passionate about securing digital environments and solving real-world security challenges. With several years of experience in IT and a growing foundation in security operations, I'm on a mission to transition into a Security Analyst role where I can actively hunt threats, respond to incidents, and protect systems.
-
-📍 From vulnerability management using Tenable to building and monitoring a honeynet in Azure, each of these projects reflects my commitment to continuous learning and hands-on growth. Whether it's configuring a WAF in AWS, deploying EDR, or writing incident reports based on real attack traffic, I love diving deep into the evolving world of cybersecurity.
+I'm a tech professional passionate about securing digital environments and solving real-world security challenges. With several years of experience in IT and a growing foundation in security operations, I'm on a mission to transition into a role in Cybersecurity where I can actively hunt threats, respond to incidents, and protect systems.
 
 ---
 
 ## 🌱 A bit about me:
-- 📡 Former TAC engineer at Cisco supporting a RedHat-based network automation platform
+- 📡 Former TAC engineer at Cisco supporting a RedHat-based network management platform
 - 🛡️ Currently focused on defensive security, threat detection, and cloud security
 - 🎓 Studying for CompTIA Security+ and completing labs in Microsoft Sentinel & Azure
 - 🧠 Lifelong learner committed to advancing in cybersecurity, one project at a time
