@@ -13,6 +13,7 @@ I'm a technology professional with a passion for securing digital environments a
 ---
 
 ## 🎯 My Focus:
+
 I'm currently exploring opportunities across the cybersecurity landscape, from cloud security and GRC to threat detection and vulnerability management. What drives me is the chance to bring real value to a team by pairing my technical expertise with a proactive, solution-oriented mindset. 
 ---
 
