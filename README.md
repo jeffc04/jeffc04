@@ -1,6 +1,6 @@
 # Hi, I'm Jeff 👋 Welcome to my Cybersecurity & IT Project Portfolio 🔐
 
-I'm a technology professional with a passion for securing digital environments and addressing real-world security challenges. With several years of experience in IT and a growing foundation in cybersecurity, my goal is to help organizations build resilience, reduce risk, and make informed, strategic decisions that strengthen their overall security posture.
+I'm a technology professional with a passion for securing digital environments and addressing real-world security challenges. With several years of experience in IT and a growing foundation in cybersecurity, my goal is to help organizations build resilience, reduce risk, and make informed strategic decisions that strengthen their overall security posture.
 
 ---
 
