@@ -18,7 +18,7 @@ I'm currently exploring opportunities across the cybersecurity landscape, from c
 ---
 
 ## 🔍 Featured Projects:
-- **🛡️ [Vulnerability Management Program] (https://github.com/jeffc04/vulnerability-management-program/)**
+- **🛡️ [Vulnerability Management Program](https://github.com/jeffc04/vulnerability-management-program/)**
   - Performed authenticated & unauthenticated scans with Tenable, analyzed critical CVEs, and proposed remediation.
 - **📊 Incident Response Reports**
   - Documented real-world DDoS attack simulations, analyzed packet captures with Wireshark, and recommended mitigation steps.
