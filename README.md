@@ -20,8 +20,8 @@ I'm currently exploring opportunities across the cybersecurity landscape, from c
 ## 🔍 Featured Projects:
 - **🛡️ [Vulnerability Management Program](https://github.com/jeffc04/vulnerability-management-program/)**
   - Performed authenticated & unauthenticated scans with Tenable, analyzed critical CVEs, and proposed remediation.
-- **📊 Incident Response Reports**
-  - Documented real-world DDoS attack simulations, analyzed packet captures with Wireshark, and recommended mitigation steps.
+- **🔍 [Threat Hunting – Exposed Azure VMs](https://github.com/jeffc04/azure-threat-hunt-exposed-vms)**
+  - Used Microsoft Defender & KQL to investigate a simulated brute-force attack. Tracked login activity, identified metadata abuse, and documented threat hunting findings.
 - **☁️ Cloud Security: AWS WAF Workshop**
   - Configured and tested AWS WAF to block malicious traffic targeting a cloud-hosted web application.
 - **⚙️ SIEM & EDR Hands-On Labs**
